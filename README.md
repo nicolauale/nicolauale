@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/nicolauale?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolauale&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauale&layout=compact&langs_count=7&theme=midnight-purple&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolauale&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauale&layout=compact&langs_count=7&theme=github_dark&count_private=true"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
