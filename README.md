@@ -16,7 +16,9 @@ Over the years, I have gained proficiency in a variety of programming languages 
 - **Visual Basic and Delphi**: For creating user-friendly applications.
 - **C++**: For performance-critical software.
 - **Python**: My favorite for data science, machine learning, and AI projects.
-- **GoLang**: For its simplicity and efficiency in building scalable applications.
+- **GoLang**: For its simplicity and performance in building scalable, concurrent systems.
+- **JavaScript (Node.js)**: Ideal for developing serverless backends and event-driven cloud functions.
+- **Kotlin**: My go-to for building modern, responsive Android applications with a strong emphasis on maintainability and user experience.
 
 ## Technical Expertise
 My expertise spans a broad spectrum of technologies and disciplines, including:
